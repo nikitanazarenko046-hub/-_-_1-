@@ -1,0 +1,44 @@
+сайт/
+├── app.py
+├── style.css
+└── templates/
+    ├── index.html
+    ├── login.html
+    ├── admin.html
+    └── cancel.html
+
+
+
+🐶1.Установи Flask
+bash
+вставте эту команду в терминал
+
+pip install flask
+
+👽2.Запусти программу
+bash
+вставте эту команду в терминал
+python app.py
+
+
+
+ 😁3.Вход в админку
+откройте в терминале 
+ссылку и зайдите в браузер
+    Открой http://127.0.0.1:5000/login
+
+    Введи:
+
+        Email: admin@example.com
+
+        Пароль: admin123
+
+    Нажми «Войти»
+
+
+😶‍🌫️4. Как остановить программу
+
+В терминале, где запущен python app.py, нажми:
+text
+
+Ctrl + C
